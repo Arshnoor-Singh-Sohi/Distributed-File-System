@@ -1,6 +1,5 @@
 # Distributed File System (DFS)
 
-![Distributed File System Banner](https://github.com/Arshnoor-Singh-Sohi/Distributed-File-System/raw/main/docs/banner.png)
 
 ## Table of Contents
 
